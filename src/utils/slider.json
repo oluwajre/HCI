@@ -1,38 +1,32 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Review Management",
+    "detail": "We facilitate the review process by managing document submissions, reviewer assignments.",
+    "image": "./s1.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Expert Feedback and Evaluation",
+    "detail": "Connecting researchers with registered reviewers who provide valuable feedback on their research.",
+    "image": "./s2.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Reviewer Matching and Assignment",
+    "detail": "We match reviewers with research documents based on their expertise and areas of interest.",
+    "image": "./s3.jpg"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Research Collaboration",
+    "detail": "We enable researchers to collaborate with reviewers remotely, fostering knowledge sharing within the research community.",
+    "image": "./s4.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Enhanced Research Quality",
+    "detail": "Through expert feedback, researchers can refine and potentially strengthen their work before publication.",
+    "image": "./s5.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Community Building",
+    "detail": "We foster a platform for collaboration and knowledge exchange within the research community, connecting researchers and reviewers with shared interests.",
+    "image": "./s6.jpg"
   }
 ]
